@@ -1,9 +1,9 @@
 # Iniciando o Servidor Web
 
-### PHP API REST
+### PHP
 - $ cd ~/api
 - $ php -S localhost:3000
 
-### React JS Expo.io
+### React.js
 - $ cd ~/components
 - $ expo start
